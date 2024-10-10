@@ -1,17 +1,17 @@
 # Automation Testing of Amazon Login with Python and Selenium
 
-This framework automates the Amazone web login in chrome browser in mac os with selenium and python. 
+This framework automates the Amazon web login in chrome browser in mac os with selenium and python. 
 
 # Test Scenarios covered:
 
   Positive Scenario: Amazon web login with a valid Email and Password.
-  Negative Scenario: Amazone web login with an invalid Email.
+  Negative Scenario: Amazon web login with an invalid Email.
  
 # Automation Environment Setup:
   * Install python: Go to python.org and download latest python version. https://www.python.org/downloads/
   * Install selenium: Run command 'pip3 install -U selenium'.
   * Download and install PyCharm IDE: https://www.jetbrains.com/pycharm/download/?section=mac
-  * Chrome webdriver: As of selenium 4.10.0 the chrome webdriver manager is fully integrated. If using an older version of selenium, download and install chrome webdriver seperatelty from https://www.selenium.dev/.
+  * Chrome webdriver: As of selenium 4.10.0 the chrome webdriver manager is fully integrated. If using an older version of selenium, download and install chrome webdriver separatelty from https://www.selenium.dev/.
   * Clone this repository and open the automation project in PyCharm.
   * Add selenium package to the project: PyCharm Settings>> project: Python Interpreter >> Search and add Selenium package.
   * Update Login credentials in configuration file: Provide a valid 'LOGIN_EMAIL' and 'LOGIN_PASSWORD' in config.py.
