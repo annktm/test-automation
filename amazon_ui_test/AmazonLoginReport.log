@@ -1,0 +1,9 @@
+2024-10-10 10:20:51 AM - INFO - --- TEST: AMAZON SUCCESS LOGIN ---
+2024-10-10 10:20:51 AM - INFO - amazon_success_login: Test execution started
+2024-10-10 10:21:06 AM - INFO - amazon_success_login: Test execution completed successfully
+2024-10-10 10:22:25 AM - INFO - --- TEST: AMAZON INVALID EMAIL LOGIN ---
+2024-10-10 10:22:25 AM - INFO - amazon_invalid_email_login: Test execution started
+2024-10-10 10:22:40 AM - INFO - amazon_invalid_email_login: Test execution completed successfully
+2024-10-10 10:25:35 AM - INFO - --- TEST: AMAZON INVALID EMAIL LOGIN ---
+2024-10-10 10:25:35 AM - INFO - amazon_invalid_email_login: Test execution started
+2024-10-10 10:25:46 AM - INFO - --- amazon_invalid_email_login:An exception occurred! ---
