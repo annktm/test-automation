@@ -16,7 +16,8 @@ This framework automates the Amazone web login in chrome browser in mac os with 
   * Add selenium package to the project: PyCharm Settings>> project: Python Interpreter >> Search and add Selenium package.
   * Update Login credentials in configuration file: Provide a valid 'LOGIN_EMAIL' and 'LOGIN_PASSWORD' in config.py.
 
-# Logs: Test excecution details will be added to 'AmazonLoginReport.log' under test-automation>> amazon_ui_test folder in the below format:
+# Test Result Logging: 
+Test excecution details will be added to 'AmazonLoginReport.log' under test-automation>> amazon_ui_test folder in the below format:
   <img width="1207" alt="Screenshot 2024-10-10 at 12 03 55 PM" src="https://github.com/user-attachments/assets/9afabe23-a20a-4ced-ad1e-8b50e45c5f54">
 
   Positive Test Scenario Execution- Validate Amazon Login with valid credentials:
