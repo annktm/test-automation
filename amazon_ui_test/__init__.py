@@ -1,8 +1,6 @@
 import logging
-import inspect
-import selenium.webdriver.support.select
-import config
-from selenium.webdriver.support.select import Select
+
+
 class BaseClass:
     def log(self):
         logging.basicConfig(filename="AmazonLoginReport.log",
