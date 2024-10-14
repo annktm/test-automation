@@ -29,3 +29,4 @@ Test execution details will be added to 'AmazonLoginReport.log' under test-autom
   
   https://github.com/user-attachments/assets/10af4eca-03ce-474e-b7f7-94c7d1e5194c
 
+Note: Captcha validation during login should be bypassed manually. To discuss automated access to Amazon data please contact api-services-support@amazon.com.
